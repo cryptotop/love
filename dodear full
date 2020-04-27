@@ -1,0 +1,49 @@
+#EXTINF:-,GEO NEWS
+http://multistream2.dodear.com:80/pk-geonews/index.m3u8
+#EXTINF:-,ARY NEWS
+http://multistream2.dodear.com:80/pk-arynews/index.m3u8
+#EXTINF:-,EXPRESS NEWS
+http://multistream2.dodear.com:80/pk-expressnews/index.m3u8
+#EXTINF:-,BOL NEWS HD
+http://multistream2.dodear.com:80/pk-bolnewsuhd/index.m3u8
+#EXTINF:-,92 NEWS HD
+http://multistream2.dodear.com:80/pk-92newshd/index.m3u8
+#EXTINF:-,SAMAA NEWS
+http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
+#EXTINF:-,DAWN NEWS
+http://multistream2.dodear.com:80/pk-dawnnews/index.m3u8
+#EXTINF:-,DUNYA NEWS
+http://multistream2.dodear.com:80/pk-dunyanews/index.m3u8
+#EXTINF:-,GNN 
+http://multistream2.dodear.com:80/pk-gnnhd/index.m3u8
+#EXTINF:-,LAHORE NEWS
+http://multistream2.dodear.com:80/pk-lahorenewshd/index.m3u8
+#EXTINF:-,NEO NEWS
+http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
+#EXTINF:-,HUM NEWS
+http://multistream2.dodear.com:80/pk-humnewshd/index.m3u8
+#EXTINF:-,NEWS ONE
+http://multistream2.dodear.com:80/pk-newsone/index.m3u8
+#EXTINF:-,DIN NEWS
+http://multistream2.dodear.com:80/pk-dinnewshd/index.m3u8
+#EXTINF:-,PUBLIC NEWS
+http://multistream2.dodear.com:80/pk-publicnewshd/index.m3u8
+#EXTINF:-,SUCH NEWS
+http://multistream2.dodear.com:80/pk-suchnews/index.m3u8
+#EXTINF:-,CAPTIAL
+http://multistream2.dodear.com:80/pk-capitaltv/index.m3u8
+#EXTINF:-,CITY42
+http://multistream2.dodear.com:80/pk-city42/index.m3u8
+#EXTINF:-, GTV HD
+http://multistream2.dodear.com:80/pk-gtvhd/index.m3u8
+#EXTINF:-,METRO 1
+http://multistream2.dodear.com:80/pk-metro1/index.m3u8
+#EXTINF:-,AAJ NEWS
+http://multistream2.dodear.com:80/pk-aajnews/index.m3u8
+#EXTINF:-,SINDH NEWS
+http://multistream2.dodear.com:80/pk-sindhnews/index.m3u8
+#EXTINF:-,GEO TEZZ
+http://multistream2.dodear.com:80/pk-geotezz/index.m3u8
+#EXTINF:-,KHYBER NEWS
+http://multistream2.dodear.com:80/pk-khybernews/index.m3u8
+
