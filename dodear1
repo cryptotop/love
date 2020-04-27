@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",Kay2 TV
+#EXTINF:-,1Kay2 TV
 http://multistream2.dodear.com:80/pk-kay2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",24newshdTV
+#EXTINF:-1,24newshdTV
 http://multistream2.dodear.com:80/pk-channel24hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",aplus TV
+#EXTINF:-1,aplus TV
 http://multistream2.dodear.com:80/pk-aplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="",92 news hd TV
 http://multistream2.dodear.com:80/pk-92newshd/index.m3u8
