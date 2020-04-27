@@ -1,0 +1,27 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",Kay2 TV
+http://multistream2.dodear.com:80/pk-kay2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",24newshdTV
+http://multistream2.dodear.com:80/pk-channel24hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="",aplus TV
+http://multistream2.dodear.com:80/pk-aplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="",92 news hd TV
+http://multistream2.dodear.com:80/pk-92newshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/NL1cqS2.png" group-title="News",ary News TV
+http://multistream2.dodear.com:80/pk-arynews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/jYR0ACG.png" group-title="News",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="",bolnewshd TV
+http://multistream2.dodear.com:80/pk-bolnewsuhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="",dawn news TV
+http://multistream2.dodear.com:80/pk-dawnnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="",Nazrana TV
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/rO37XiD.png" group-title="Religious",Shine Star
+http://golive64.christianworldmedia.com:1935/ShineStarTV/mp4:ShineStarTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="",Subrang TV (USA)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+© 2020 GitHub, Inc.
