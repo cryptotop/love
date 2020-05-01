@@ -1,3 +1,4 @@
+#EXTINF:-,~ PAKISTAN NEWS TV CHANNELS ~
 #EXTINF:-,GEO NEWS
 http://multistream2.dodear.com:80/pk-geonews/index.m3u8
 #EXTINF:-,ARY NEWS
@@ -46,4 +47,73 @@ http://multistream2.dodear.com:80/pk-sindhnews/index.m3u8
 http://multistream2.dodear.com:80/pk-geotezz/index.m3u8
 #EXTINF:-,KHYBER NEWS
 http://multistream2.dodear.com:80/pk-khybernews/index.m3u8
+
+#EXTINF:-,~ PAKISTAN ENTERTAINMENT TV CHANNELS ~
+
+#EXTINF:-,A PLUS
+http://multistream2.dodear.com:80/pk-aplus/index.m3u8
+#EXTINF:-,EXPRESS ENTERTAINMENT
+http://multistream2.dodear.com:80/pk-expressentertainment/index.m3u8
+#EXTINF:-,GEO ENTERTAINMENT
+http://multistream2.dodear.com:80/pk-geoentertainment/index.m3u8
+#EXTINF:-,GEO KHANI
+http://multistream2.dodear.com:80/pk-geokahani/index.m3u8
+#EXTINF:-,HUM HD
+http://multistream2.dodear.com:80/pk-humtvhd/index.m3u8
+#EXTINF:-,ARY DIGITAL
+http://multistream2.dodear.com:80/pk-arydigital/index.m3u8
+#EXTINF:-,ARY ZINDGI
+http://multistream2.dodear.com:80/pk-aryzindagi/index.m3u8
+#EXTINF:-,HUM SITRAY
+http://multistream2.dodear.com:80/pk-humsitary/index.m3u8
+#EXTINF:-,BOL ENTERTAINMENT
+http://multistream2.dodear.com:80/pk-bolentertainmenthd/index.m3u8
+#EXTINF:-,AJJ ENT
+http://multistream2.dodear.com:80/pk-aajentertainment/index.m3u8
+#EXTINF:-,A TV
+http://multistream2.dodear.com:80/pk-atv/index.m3u8
+#EXTINF:-,URDU 1
+http://multistream2.dodear.com:80/pk-urdu1/index.m3u8
+#EXTINF:-,APNA CHANNEL
+http://multistream2.dodear.com:80/pk-apnachannel/index.m3u8
+#EXTINF:-,KTN LUDER CHANNEL
+http://multistream2.dodear.com:80/pk-ktn/index.m3u8
+#EXTINF:-,PTV HOME
+http://multistream2.dodear.com:80/pk-ptvhome/index.m3u8
+#EXTINF:-,WASEEB
+http://multistream2.dodear.com:80/pk-waseeb/index.m3u8
+#EXTINF:-,ROHI TV
+http://multistream2.dodear.com:80/pk-rohitv/index.m3u8
+
+#EXTINF:-,~ KIDS TV CHANNELS ~
+
+#EXTINF:-,NICK PAKISTAN
+http://multistream2.dodear.com:80/pk-nick/index.m3u8
+#EXTINF:-,CARTOON NETWORK
+http://multistream2.dodear.com:80/pk-cartoonnetwork/index.m3u8
+
+#EXTINF:-,~ ISLAMIC TV CHANNELS ~
+
+#EXTINF:-,HADI
+http://multistream2.dodear.com:80/pk-hadi1/index.m3u8
+#EXTINF:-,ARY Q TV
+http://multistream2.dodear.com:80/pk-aryqtv/index.m3u8
+#EXTINF:-,MADNI 
+http://multistream2.dodear.com:80/pk-madni/index.m3u8
+
+#EXTINF:-,~ SPORTS TV CHANNELS ~
+
+#EXTINF:-,PTV SPORTS
+http://multistream2.dodear.com:80/pk-ptvsportshd/index.m3u8
+
+#EXTINF:-,~ MUSIC TV CHANNELS ~
+
+#EXTINF:-,OXYGEN
+http://multistream2.dodear.com:80/pk-oxygen/index.m3u8
+#EXTINF:-,PLAY 
+http://multistream2.dodear.com:80/pk-playtv/index.m3u8
+#EXTINF:-,JALWA
+http://multistream2.dodear.com:80/pk-jalwa/index.m3u8
+#EXTINF:-,8 X M
+http://multistream2.dodear.com:80/pk-8xm/index.m3u8
 
